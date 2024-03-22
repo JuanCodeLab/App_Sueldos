@@ -1,4 +1,4 @@
-### Taller de Programación
+# Taller de Programación
 
 Este repositorio contiene el trabajo práctico solicitado por el docente para considerar nota final de proyecto en taller.
 El proyecto consiste en una aplicacion simple de formularios basada en C# con controles CRUD sobre una base de datos SQL.
@@ -19,19 +19,19 @@ Además del contenido del programa, también se incluye la estructura de la base
 
 ## Detalles de la aplicación
 
-# Información
+### Información
 
 La aplicación consiste en un programa en donde existen dos tipos de usuarios, un Administrador que tiene la característica de agregar nuevos trabajadores a la base de datos y un Usuario que se encargará de administrar los datos.
 Para poder gestionar dichos procesos se generaron distintas pantallas de vistas para cada proceso.
 
 *Cabe considerar que el cliente ficticio solicitó de la siguiente manera el accionar de la aplicación.*
 
-# Arquitectura
+### Arquitectura
 
 Para generar un trabajo más ordenado, pero manteniendo un patrón simple, rápido y efectivo de trabajo, se decide relacionar el sistema por una arquitectura por capas. 
 Se realiza un modelo simple de Presentación, Lógica, Acceso a datos y Base de Datos. Relacionando así a cada una de las clases y formularios en su capa respectiva.
 
-# Vistas y procesos del programa 
+### Vistas y procesos del programa 
 
 • Vista de inicio de sesion: Formulario donde usuario ingresará sus datos; nombre de usuario y contraseña (admin 1234 y user 1234 por defecto en la base de datos).
 • Vista de integracion de empleados: Si una cuenta Administrador inicia sesion dentro del programa ingresará a una vista unica donde podrá agregar nuevos empleados a la base de datos.
@@ -41,7 +41,7 @@ Con esta información el programa realizará un calculo matematico simple para o
 
 ---
 
-## Conclusión
+# Conclusión
 
 En el análisis del código proporcionado y las discusiones anteriores sobre la aplicación de sueldos, se evidenció un enfoque orientado a objetos en el diseño del sistema, donde se definieron clases para representar entidades clave como empleados y cálculos relacionados con los sueldos. Además, se utilizó el enfoque de Windows Forms para construir la interfaz de usuario. 
 
