@@ -1,0 +1,128 @@
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.SuggestedBindingRedirects.cache
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.pdb
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxAgg.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxBDD.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxDerived.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxLookup.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\Interop.TxSplit.dll
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Form1.resources
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Menu.resources
+C:\Users\JDiaz\source\repos\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Principal.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Form1.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Menu.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Principal.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\obj\Debug\AppSueldos.pdb
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\EntityFramework.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\EntityFramework.xml
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.Form1.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.Menu.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.Principal.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.csproj.CopyComplete
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\obj\Debug\AppSueldos.pdb
+C:\Users\jdiaz\OneDrive\Escritorio\AppSueldos - Login\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\jdiaz\Downloads\AppSueldos - Tabla - V1\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\EntityFramework.dll
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\EntityFramework.xml
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.InEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.Inicio.resources
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.CalEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.csproj.CopyComplete
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.pdb
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\jdiaz\Downloads\AppSueldos - ACTUAL\AppSueldos\obj\Debug\AppSueldos.BsqEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\EntityFramework.dll
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\EntityFramework.xml
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.InEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.Inicio.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.CalEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.BsqEmpleado.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.csproj.CopyComplete
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\jdiaz\Downloads\AppSueldos - FINAL\AppSueldos\obj\Debug\AppSueldos.pdb
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe.config
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\AppSueldos.exe
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\AppSueldos.pdb
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\EntityFramework.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\EntityFramework.xml
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.AssemblyReference.cache
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.SuggestedBindingRedirects.cache
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.MSINKAUTLib.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.SpeechLib.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxAgg.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxBDD.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxDerived.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxLookup.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\Interop.TxSplit.dll
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.ResolveComReference.cache
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.InEmpleado.resources
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Inicio.resources
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.CalEmpleado.resources
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.BsqEmpleado.resources
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.Properties.Resources.resources
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.GenerateResource.cache
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.CoreCompileInputs.cache
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.csproj.CopyComplete
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.exe
+C:\Users\JDiaz\Downloads\ENE-PRO201_Juan_Diaz\AppSueldos\AppSueldos\obj\Debug\AppSueldos.pdb
