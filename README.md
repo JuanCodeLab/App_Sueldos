@@ -34,13 +34,13 @@ Se realiza un modelo simple de Presentación, Lógica, Acceso a datos y Base de 
 
 ### Vistas y procesos del programa 
 
-• Vista de inicio de sesion: Formulario donde usuario ingresará sus datos; nombre de usuario y contraseña (admin 1234 y user 1234 por defecto en la base de datos).
+- **Vista de inicio de sesion:** Formulario donde usuario ingresará sus datos; nombre de usuario y contraseña (admin 1234 y user 1234 por defecto en la base de datos).
 
-• Vista de integracion de empleados: Si una cuenta Administrador inicia sesion dentro del programa ingresará a una vista unica donde podrá agregar nuevos empleados a la base de datos.
+- **Vista de integracion de empleados:** Si una cuenta Administrador inicia sesion dentro del programa ingresará a una vista unica donde podrá agregar nuevos empleados a la base de datos.
 
-• Vista de Visualizacion de empleados registrados: Si una cuenta Usuario incia sesion dentro del programa ingresará a una vista unica donde este podrá revisar los datos de los empleados registrados.
+- **Vista de Visualizacion de empleados registrados:** Si una cuenta Usuario incia sesion dentro del programa ingresará a una vista unica donde este podrá revisar los datos de los empleados registrados.
 
-• Vista de Calculo de Sueldo de empleados registrados: Si una cuenta Usuario da click dentro de uno de los empleados de la tabla anteriormente indicada, el Usuario podrá visualizar una vista de cálculo de sueldo donde podrá especificar las horas trabajadas, horas extras, fondo de salud y administración de fondos de pensiones de este.
+- **Vista de Calculo de Sueldo de empleados registrados:** Si una cuenta Usuario da click dentro de uno de los empleados de la tabla anteriormente indicada, el Usuario podrá visualizar una vista de cálculo de sueldo donde podrá especificar las horas trabajadas, horas extras, fondo de salud y administración de fondos de pensiones de este.
 
 
 Con esta información el programa realizará un calculo matematico simple para otorgar el sueldo bruto del trabajador y su sueldo liquido. Informacion que podra ser guardada por el Usuario si este la necesita.
